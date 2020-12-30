@@ -10,11 +10,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adepanges.adepanges)
 
 ## I am ```Ade Pangestu```, you can call me ```Ade``` or ```Panges```
+Understand from basic concepts, learning from basic concepts, with 5 years of experience in Software Development
+
+With Power: `PHP`, `CodeIgniter`, `Laravel`, `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `VueJS`, `Full Stack Development`, `MongoDB`, `ElasticSearch`, `Rabbit MQ`, `Socket`, `Mobile API`, `Software Engineering`, `Problem Solving`, `Design Database`, `RESTful Service`
 
 ### 🤵 About Me:
 - 🏦 I'm working as a `Full Stack Developer` in awesome company
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
-- 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```.sql```, ```no.sql```, ```.php```;
+- 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```no.sql```;
 - 🌱 I’m currently Typescript, Unit Testing;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
