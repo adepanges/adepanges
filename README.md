@@ -18,6 +18,6 @@ With Power: `PHP`, `CodeIgniter`, `Laravel`, `JavaScript`, `NodeJS`, `Express`, 
 - 🏦 I'm working as a `Full Stack Developer` in awesome company
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 - 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```no.sql```;
-- 🌱 I’m currently learning Typescript and Unit Testing;
+- 🌱 I’m currently learning `Typescript` and `Unit Testing`;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
