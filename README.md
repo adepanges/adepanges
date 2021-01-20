@@ -23,5 +23,5 @@ With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `Cod
 - 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
 
 ### Portofolio
-- [Batik Giri Alam](https://batikgirialam.com)
+- [Batik Giri Alam](https://batikgirialam.com):
     Ecommerce using build using TypeScript and Nuxt with mongoDB for database
