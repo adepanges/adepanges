@@ -24,4 +24,4 @@ With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `Cod
 
 ### Portofolio
 - [Batik Giri Alam](https://batikgirialam.com):
-    Ecommerce using build using TypeScript and Nuxt with mongoDB for database
+    Ecommerce using build using TypeScript and Nuxt with mongoDB for database, and Firebase Storage to save some assets
