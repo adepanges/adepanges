@@ -23,4 +23,4 @@ With Power: `PHP`, `CodeIgniter`, `Laravel`, `JavaScript`, `NodeJS`, `Express`, 
 - 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
 
 ### Portofolio
-- 📝 [Batik Giri Alam](https://batikgirialam.com);
+- [Batik Giri Alam](https://batikgirialam.com);
