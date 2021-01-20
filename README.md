@@ -12,7 +12,7 @@
 ## I am ```Ade Pangestu```, you can call me ```Ade``` or ```Panges```
 Understand from basic concepts, learning from basic concepts, with 5 years of experience in Software Development
 
-With Power: `PHP`, `CodeIgniter`, `Laravel`, `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `VueJS`, `Full Stack Development`, `MongoDB`, `ElasticSearch`, `Rabbit MQ`, `Socket`, `Mobile API`, `Software Engineering`, `Problem Solving`, `Design Database`, `RESTful Service`
+With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `CodeIgniter`, `Laravel`, `VueJS`, `JQuery`, `Full Stack Development`, `MongoDB`, `ElasticSearch`, `Rabbit MQ`, `Socket`, `Mobile API`, `Software Engineering`, `Problem Solving`, `Design Database`, `RESTful Service`
 
 ### 🤵 About Me:
 - 🏦 I'm working as a `Full Stack Developer` in awesome company
@@ -23,4 +23,5 @@ With Power: `PHP`, `CodeIgniter`, `Laravel`, `JavaScript`, `NodeJS`, `Express`, 
 - 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
 
 ### Portofolio
-- [Batik Giri Alam](https://batikgirialam.com);
+- [Batik Giri Alam](https://batikgirialam.com)
+    Ecommerce using build using TypeScript and Nuxt with mongoDB for database
