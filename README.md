@@ -15,7 +15,7 @@ Understand from basic concepts, learning from basic concepts, with 5 years of ex
 With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `CodeIgniter`, `Laravel`, `VueJS`, `JQuery`, `Full Stack Development`, `MongoDB`, `ElasticSearch`, `Rabbit MQ`, `Socket`, `Mobile API`, `Software Engineering`, `Problem Solving`, `Design Database`, `RESTful Service`
 
 ### 🤵 About Me:
-- 🏦 I'm working as a `Full Stack Developer` in awesome company
+- 🏦 I'm working as a `Software Engineer` in awesome company
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 - 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```no.sql```;
 - 🌱 I’m currently learning `Typescript`, `Golang`, and `Unit Testing`;
