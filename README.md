@@ -20,7 +20,7 @@ With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `Cod
 - 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```no.sql```;
 - 🌱 I’m currently learning `Typescript` and `Unit Testing`;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/file/d/10Qet4FOTub6n9Qh58DZ5gP_8f8-_SDwp/view);
+- 📝 [Resume](https://drive.google.com/file/d/10lc9-9U8zu0NOpAH4Sjm2qArBrbcDIMz/view?usp=sharing);
 - 📝 [Linkedin](https://www.linkedin.com/in/adepanges);
 
 ### Portofolio
