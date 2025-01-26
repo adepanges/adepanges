@@ -41,7 +41,7 @@
 
 ### 📫 **Let's Connect!**  
 - 💬 Ask me about **Legacy Modernization**, **Database Optimization**, or **Cloud Workflows**  
-- 📄 [Resume]([https://drive.google.com/file/d/10lc9-9U8zu0NOpAH4Sjm2qArBrbcDIMz/view?usp=sharing](https://drive.google.com/file/d/1GAtNgA5qaPBAyYcGIdqjwVK15sd6qvtB/view?usp=sharing))  
+- 📄 [Resume](https://drive.google.com/file/d/1GAtNgA5qaPBAyYcGIdqjwVK15sd6qvtB/view?usp=sharing)  
 - ⚡ **Fun fact**: Radio enthusiast 📻 | CoffeeScript nostalgia ☕  
 
 ---
