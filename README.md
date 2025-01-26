@@ -36,11 +36,6 @@
 - 🌱 **Learning**: `AWS CloudFormation`, `AI/ML Integration`, and advanced `TypeScript` patterns  
 - 💡 **Experimenting**: AI-driven automation tools & cloud-native architectures  
 
----
-
-### 📈 **Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=adepanges&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-*Building solutions, not just code.*
 
 ---
 
