@@ -1,28 +1,57 @@
-## Hollo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="https://twitter.com/adepanges" alt="Ade Pangestu | Twitter">
-  <img align="left" alt="Ade Pangestu | Twitter" width="22px" src="https://raw.githubusercontent.com/adepanges/adepanges/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/adepanges">
-  <img align="left" alt="Ade's LinkedIN" width="22px" src="https://raw.githubusercontent.com/adepanges/adepanges/master/assets/linkedin.svg" />
-</a>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/adepanges)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adepanges)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adepanges.adepanges)
+### I'm **Ade Pangestu** 👋  
+**Full-Stack Engineer** passionate about building scalable systems, automating workflows, and bridging code with cloud innovation.  
+`9+ years` crafting solutions for e-commerce, SaaS, and telecom industries.  
 
-## I am ```Ade Pangestu```, you can call me ```Ade``` or ```Panges```
-Understand from basic concepts, learning from basic concepts, with 5 years of experience in Software Development
+---
 
-With Power: `JavaScript`, `NodeJS`, `Express`, `TypeScript`, `TsED`, `PHP`, `CodeIgniter`, `Laravel`, `VueJS`, `JQuery`, `Full Stack Development`, `MongoDB`, `ElasticSearch`, `Rabbit MQ`, `Socket`, `Mobile API`, `Software Engineering`, `Problem Solving`, `Design Database`, `RESTful Service`
+### 🛠️ **Tech Stack**  
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
-### 🤵 About Me:
-- 🏦 I'm working as a `Software Engineer` in awesome company
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
-- 🤔 I use daily ```.js```, ```.ts```, ```.vue```, ```no.sql```;
-- 🌱 I’m currently learning `Typescript` and `Unit Testing`;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/file/d/10lc9-9U8zu0NOpAH4Sjm2qArBrbcDIMz/view?usp=sharing);
-- 📝 [Linkedin](https://www.linkedin.com/in/adepanges);
+**Databases & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
-### Portofolio
-- [Batik Giri Alam](https://batikgirialam.com):
-    Ecommerce using build using TypeScript and Nuxt with mongoDB for database, and Firebase Storage to save some assets
+**Tools & Practices**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-009D9F?logo=agile&logoColor=white)
+
+---
+
+### 🚀 **Current Focus**  
+- 🔭 **Working**: `Software Engineer` @ [Mitrais](https://www.mitrais.com/) (Client: **GroupMap** – Perth, WA)  
+- 🌱 **Learning**: `AWS CloudFormation`, `AI/ML Integration`, and advanced `TypeScript` patterns  
+- 💡 **Experimenting**: AI-driven automation tools & cloud-native architectures  
+
+---
+
+### 📈 **Stats**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=adepanges&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+*Building solutions, not just code.*
+
+---
+
+### 📫 **Let's Connect!**  
+- 💬 Ask me about **Legacy Modernization**, **Database Optimization**, or **Cloud Workflows**  
+- 📄 [Resume](https://drive.google.com/file/d/10lc9-9U8zu0NOpAH4Sjm2qArBrbcDIMz/view?usp=sharing)  
+- ⚡ **Fun fact**: Radio enthusiast 📻 | CoffeeScript nostalgia ☕  
+
+---
+
+### 🛠️ **Recent Projects**  
+- **CRM Systems**: Built custom tools for cosmetics brands to streamline sales workflows.  
+- **Microservices**: Migrated monolithic platforms to scalable Node.js/Express architectures.  
+- **API Integrations**: Designed high-performance APIs handling 1M+ transactions.  
