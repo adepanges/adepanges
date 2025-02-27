@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 **Current Focus**  
-- 🔭 **Working**: `Software Engineer` @ [Mitrais](https://www.mitrais.com/)
+- 🔭 **Working**: `Software Engineer`
 - 🌱 **Learning**: `AWS CloudFormation`, `AI/ML Integration`, and advanced `TypeScript` patterns  
 - 💡 **Experimenting**: AI-driven automation tools & cloud-native architectures  
 
