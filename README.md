@@ -5,7 +5,7 @@
 
 ### I'm **Ade Pangestu** 👋  
 **Full-Stack Engineer** passionate about building scalable systems, automating workflows, and bridging code with cloud innovation.  
-`9+ years` crafting solutions for e-commerce, SaaS, and telecom industries.  
+`10 years` crafting solutions for e-commerce, SaaS, and telecom industries.  
 
 ---
 
