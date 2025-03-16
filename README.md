@@ -7,6 +7,10 @@
 **Full-Stack Engineer** passionate about building scalable systems, automating workflows, and bridging code with cloud innovation.  
 `9+ years` crafting solutions for e-commerce, SaaS, and telecom industries.  
 
+![adepanges's Stats](https://github-readme-stats.vercel.app/api?username=adepanges&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adepanges&hide_progress=true&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ---
 
 ### 🛠️ **Tech Stack**  
