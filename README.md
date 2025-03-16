@@ -47,6 +47,7 @@
 ---
 
 ### 🛠️ **Recent Projects**  
+- **[TeamRetro MCP Server](https://github.com/adepanges/teamretro-mcp-server)**: Model Context Protocol (MCP) server for TeamRetro integration.
 - **CRM Systems**: Built custom tools for cosmetics brands to streamline sales workflows.  
 - **Microservices**: Migrated monolithic platforms to scalable Node.js/Express architectures.  
 - **API Integrations**: Designed high-performance APIs handling 1M+ transactions.  
